@@ -48,6 +48,17 @@ body {
     height: 100%;
     background: linear-gradient(#343439, #95339c);
     transform: rotateY(calc(90deg * var(--i))) translateZ(150px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform-style: preserve-3d;
+}
+
+.cubo div span i {
+   position: absolute;
+   font-size: 10em;
+   color: #FFF;
+   transform: translateZ(50px);
 }
 
 .topo {
