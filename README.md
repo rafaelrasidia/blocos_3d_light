@@ -16,4 +16,4 @@ Para a criação do cubo:
 Para a animação do cubo:
     - criamos as propriedades de animação e cor
     - inserimos animação em 360g e definimos o angulo como posição do cubo e velocidade.
-    
+    -criando elemento para sombra e flutuação
