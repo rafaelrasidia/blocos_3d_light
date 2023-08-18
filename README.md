@@ -13,3 +13,7 @@ Para a criação do cubo:
     - criamos a class: cubo para definir suas propriedades.
     - criamos as propriedades da div dentro de cubo
     
+Para a animação do cubo:
+    - criamos as propriedades de animação e cor
+    - inserimos animação em 360g e definimos o angulo como posição do cubo e velocidade.
+    
